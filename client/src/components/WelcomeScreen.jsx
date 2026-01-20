@@ -28,7 +28,7 @@ const WelcomeScreen = ({ onWelcomeComplete }) => {
   };
 
   const currentColors = colors[theme] || colors.dark;
-  const portfolioUrl = "murali-portfolio.vercel.app";
+  const portfolioUrl = "muraliq4.vercel.app";
   const welcomeMessages = [
     "Building innovative solutions",
     "B.Tech CS Student",
